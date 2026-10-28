@@ -1,0 +1,18 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Ob]j/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# Visual Studio / VS Code local files
+.vs/
+.idea/
+*.csproj
+*.sln
+*.unityproj
+*.suo
+*.user
+*.userprefs
